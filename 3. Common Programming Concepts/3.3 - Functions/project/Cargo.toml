@@ -1,12 +1,8 @@
 [package]
-name = "variables"
+name = "project"
 version = "0.1.0"
 authors = ["Alkhanm <joas7777777@hotmail.com>"]
 edition = "2018"
-
-[[bin]]
-name = "constants"
-path = "src/bin/constantas.rs"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
